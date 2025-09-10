@@ -1,7 +1,7 @@
 <?php 
 
 function viewRemoveTodoList(){
-
+    echo"aaaa";
     
 }
 
